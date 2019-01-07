@@ -1,0 +1,2 @@
+# Bank-Marketing-Analysis
+Desafio Data Science Dataset : Bank Marketing Fonte oficial do ​​dataset ​​ : ​​https://archive.ics.uci.edu/ml/datasets/bank+marketing Dados: ​​https://archive.ics.uci.edu/ml/machine-learning-databases/00222/bank.zip Arquivos incluídos no link acima:  ● bank. csv:​​ uma versão reduzida do conjunto de dados;    ● bank-full.csv:​​ o conjunto completo;   ● bank-names.txt:​​ com a descrição dos campos do conjunto de dados. 
